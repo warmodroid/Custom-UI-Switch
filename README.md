@@ -5,3 +5,6 @@ It is very easy to implement in your code.
 
 ## Demo
 
+![ON state](https://github.com/warmodroid/Custom-UI-Switch/blob/master/on-state.png)
+
+![OFF state](https://github.com/warmodroid/Custom-UI-Switch/blob/master/off-state.png)
