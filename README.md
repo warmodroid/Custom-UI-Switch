@@ -3,6 +3,8 @@ Use this iOS custom switch. This switch exactly looks like the android toggle bu
 
 It is very easy to implement in your code.
 
+[Check out more details on: ](https://warmodroid.xyz/)
+
 ## Demo
 
 ![ON state](https://github.com/warmodroid/Custom-UI-Switch/blob/master/on-state.png)
